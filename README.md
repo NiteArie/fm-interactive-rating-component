@@ -1,5 +1,9 @@
 # fm-interactive-rating-component (Interactive Rating Component)
 
+## Live View
+
+URL: [https://nitearie.github.io/fm-interactive-rating-component/](https://nitearie.github.io/fm-interactive-rating-component/)
+
 ## Design 
 
 ![Design Preview](./design/desktop-preview.jpg)
